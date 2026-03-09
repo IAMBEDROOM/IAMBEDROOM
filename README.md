@@ -4,8 +4,8 @@
 
 - 😄 Pronouns: He/Him
 - 👀 I’m interested in web development, technology, video games and football.
-- 🌱 I’m currently working on Wordpress plugin and theme development
-- 💞️ I’m looking to collaborate on any projects using Wordpress
+- 🌱 I’m currently working on a live streaming software suite.
+- 💞️ I’m looking to collaborate, hit me up!
 - 📫 How to reach me: [Twitter](https://twitter.com) | [Instagram](https://www.instagram.com/)
 - :movie_camera: I create content on the following platforms: [Twitch](https://twitch.tv/) | [Youtube](https://youtube.com/) | [TikTok](https://www.tiktok.com/)
 - ⚡ Fun fact #1: My first games console was a Sega Megadrive.
