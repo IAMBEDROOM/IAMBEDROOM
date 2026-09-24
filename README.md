@@ -3,8 +3,8 @@
 ![Crash Bandicoot](https://c.tenor.com/SYjeFOfIfiIAAAAC/tenor.gif)
 
 - 😄 Pronouns: He/Him
-- 👀 I’m interested in web development, technology, video games and football.
-- 🌱 I’m currently working on a live streaming software suite.
+- 👀 I’m interested in app development, 3d printing, video games and football.
+- 🌱 I’m currently working on a 3D printing workspace.
 - 💞️ I’m looking to collaborate, hit me up!
 - 📫 How to reach me: [Twitter](https://twitter.com) | [Instagram](https://www.instagram.com/)
 - :movie_camera: I create content on the following platforms: [Twitch](https://twitch.tv/) | [Youtube](https://youtube.com/) | [TikTok](https://www.tiktok.com/)
